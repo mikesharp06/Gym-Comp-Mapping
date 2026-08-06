@@ -8,6 +8,19 @@ Life Time,"600 N 1st Ave, Minneapolis, MN 55403",Full-Service,229,,44.9811648713
 Life Time,"3600 Plymouth Blvd, Plymouth, MN 55446",Full-Service,229,,45.02773906545084, -93.47495487875686
 Life Time,"4239 Winnetka Ave N, New Hope, MN 55428",Full-Service,99,,45.03768678068817, -93.38198661914127
 Life Time,"12601 82nd Ave N, Maple Grove, MN 55369",Full-Service,139,,45.10799929976602, -93.44206810069771
+Life Time,"11989 Champlin Dr, Champlin, MN 55316",Full-Service,99,,45.18351014526191, -93.39343967290701
+Life Time,"2100 Northdale Blvd NW, Coon Rapids, MN 55433",Full-Service,99,,45.18889099392848, -93.3215479401047
+Life Time,"3310 County Rd 101, Wayzata, MN 55391",Full-Service,259,,44.95307382003536, -93.50236688424484
+Life Time,"2901 Corporate Pl, Chanhassen, MN 55317",Full-Service,229,,44.86926011019267, -93.59555143659777
+Life Time,"6544 Loftus Ln, Savage, MN 55378",Full-Service,179,,44.75731061608974, -93.36532272550558
+Life Time,"1001 W 98th St, Bloomington, MN 55431",Full-Service,129,,44.82991494663045, -93.29253830220351
+Life Time,"5995 149th St W, Apple Valley, MN 55124",Full-Service,99,,44.74551404426466, -93.18640218418939
+Life Time,"1565 Thomas Center Dr, Eagan, MN 55122",Full-Service,179,,44.80769612023365, -93.18154351270778
+Life Time,"14290 Akron Ave, Rosemount, MN 55068",Full-Service,219,,44.757984544788854, -93.08266656029744
+Life Time,"2145 Ford Pkwy, St Paul, MN 55116",Full-Service,199,,44.92277641874871, -93.19227191388198
+Life Time,"675 Commons Dr, Woodbury, MN 55125",Full-Service,179,,44.93899604910118, -92.93119819545076
+Life Time,"4800 White Bear Pkwy, White Bear Lake, MN 55110",Full-Service,219,,45.09283510186477, -93.04891145781123
+Life Time,"1200 E Moore Lake Dr, Fridley, MN 55432",Full-Service,99,,45.08879317584196, -93.24139742217687
 
 Anytime Fitness,"8599 Lyndale Ave S, Bloomington, MN 55420",Full-Service,60,29.99 bi-weekly,44.85527860623867, -93.2875870561308
 Anytime Fitness,"6503 Nicollet Ave, Richfield, MN 55423",Full-Service,68,33.99 bi-weekly,44.88953189722609, -93.27956380504071
@@ -21,11 +34,65 @@ Anytime Fitness,"2104 W Broadway, Minneapolis, MN 55411",Full-Service,50,25.00 b
 Anytime Fitness,"3540 Winnetka Ave N, New Hope, MN 55427",Full-Service,60,29.99 bi-weekly,45.02695045307225, -93.38149142230493
 Anytime Fitness,"4190 Vinewood Ln N, Plymouth, MN 55442",Full-Service,70,34.99 bi-weekly,45.033501672019625, -93.44569277682137
 Anytime Fitness,"6450 Wedgwood Rd N #107, Maple Grove, MN 55311",Full-Service,68,33.99 bi-weekly,45.0743691898154, -93.44807624927071
+Anytime Fitness,"1460 133rd Ln NE Unit B, Ham Lake, MN 55304",Full-Service,60,29.95 bi-weekly,45.219699083919366, -93.23365223861461
+Anytime Fitness,"10731 University Ave NE, Blaine, MN 55434",Full-Service,90,,45.16829576687434, -93.266297909178
+Anytime Fitness,"2421 Coon Rapids Blvd NW, Coon Rapids, MN 55433",Full-Service,62,373 six month plan,45.1762287008778, -93.32359390583125
+Anytime Fitness,"4646 85th Ave N, Brooklyn Park, MN 55443",Full-Service,60,29.99 bi-weekly,45.11811475641943, -93.34144668890532
+Anytime Fitness,"11460 Marketplace Dr N, Champlin, MN 55316",Full-Service,66,32.95 bi-weekly,45.175744662813806, -93.3895118741048
+Anytime Fitness,"3450 Bunker Lake Blvd NW, Andover, MN 55304",Full-Service,60,29.99 bi-weekly,45.229447771793026, -93.3522033718156
+Anytime Fitness,"5922 167th Ave NW, Anoka, MN 55303",Full-Service,60,29.99 bi-weekly,45.279718198138134, -93.41880798559201
+Anytime Fitness,"8019 146th Ave NW, Ramsey, MN 55303",Full-Service,60,29.99 bi-weekly,45.24056910239759, -93.46549987978578
+Anytime Fitness,"10981 4th St NE, Hanover, MN 55341",Full-Service,58,28.99 bi-weekly,45.1660375074455, -93.66636112552698
+Anytime Fitness,"5145 MN-101, Medina, MN 55340",Full-Service,60,29.99 bi-weekly,45.054095404362165, -93.52422550580185
+Anytime Fitness,"2073 Wayzata Blvd, Orono, MN 55356",Full-Service,66,32.95 bi-weekly,44.99488587037136, -93.57984379142844
+Anytime Fitness,"2200 Commerce Blvd, Mound, MN 55364",Full-Service,80,39.95 bi-weekly,44.94679377844141, -93.66430118818967
+Anytime Fitness,"340 MN-7, Excelsior, MN 55331",Full-Service,60,29.99 bi-weekly,44.90692939279082, -93.56542423577932
+Anytime Fitness,"2980 N Chestnut St, Chaska, MN 55318",Full-Service,60,29.99 bi-weekly,44.83685669041366, -93.60318973838638
+Anytime Fitness,"1206 Shakopee Town Square, Shakopee, MN 55379",Full-Service,60,29.99 bi-weekly,44.79545428917382, -93.55855778070115
+Anytime Fitness,"10165 Hennepin Town Rd, Eden Prairie, MN 55344",Full-Service,60,29.99 bi-weekly,44.82889198688887, -93.40230368274294
+Anytime Fitness,"5107 W 98th St, Bloomington, MN 55437",Full-Service,56,27.95 bi-weekly,44.82937896434076, -93.34943197902354
+Anytime Fitness,"14233 Oconnell Ct, Savage, MN 55378",Full-Service,66,32.95 bi-weekly,44.755311175253446, -93.35011862452639
+Anytime Fitness,"17811 Kenwood Trail, Lakeville, MN 55044",Full-Service,60,29.99 bi-weekly,44.70258197165968, -93.28044891532116
+Anytime Fitness,"6520 150th St W Suite 100, Apple Valley, MN 55124",Full-Service,54,26.99 bi-weekly,44.74795241018289, -93.20285797349916
+Anytime Fitness,"1981 Silver Bell Rd #1800, Eagan, MN 55122",Full-Service,60,29.99 bi-weekly,44.83128260840735, -93.2104110732314
+Anytime Fitness,"1012 Diffley Rd, Eagan, MN 55123",Full-Service,46,23.00 bi-weekly,44.81228806629938, -93.13762664992935
+Anytime Fitness,"4725 Hiawatha Ave, Minneapolis, MN 55406",Full-Service,58,28.99 bi-weekly,44.92664760455035, -93.21727752864206
+Anytime Fitness,"897 St Paul Ave, St Paul, MN 55116",Full-Service,70,34.95 bi-weekly,44.92275824980962, -93.18088531699101
+Anytime Fitness,"1059 Grand Ave, St Paul, MN 55105",Full-Service,60,29.99 bi-weekly,44.94754837479245, -93.14655304184855
+Anytime Fitness,"756 N Plaza Dr, Mendota Heights, MN 55120",Full-Service,60,29.99 bi-weekly,44.893336478786345, -93.12149048073901
+Anytime Fitness,"1201 S Robert St, West St Paul, MN 55118",Full-Service,60,29.99 bi-weekly,44.92008416600298, -93.08509826848756
+Anytime Fitness,"226 Spring St, St Paul, MN 55102",Full-Service,66,32.95 bi-weekly,44.948277334435204, -93.1008911150531
+Anytime Fitness,"1700 Suburban Ave, St Paul, MN 55106",Full-Service,60,29.99 bi-weekly,44.96091115834072, -93.03153991926528
+Anytime Fitness,"7077 10th St N, Oakdale, MN 55128",Full-Service,60,29.99 bi-weekly,44.9681986377074, -92.96424865998604
+Anytime Fitness,"2718 University Ave SE, Minneapolis, MN 55414",Full-Service,70,34.95 bi-weekly,44.98277082024138, -93.21968078778549
+Anytime Fitness,"1139 Larpenteur Ave W, Roseville, MN 55113",Full-Service,60,29.99 bi-weekly,45.00073807763085, -93.14689636412601
+Anytime Fitness,"2217 Central Ave NE, Minneapolis, MN 55418",Full-Service,66,32.99 bi-weekly,45.01869970307323, -93.25023651340919
+Anytime Fitness,"2701 39th Ave NE, St Anthony, MN 55421",Full-Service,66,32.99 bi-weekly,45.045146432321665, -93.2236750921893
+Anytime Fitness,"3673 Lexington Ave N, Arden Hills, MN 55126",Full-Service,60,29.99 bi-weekly,45.063579122097885, -93.15089066888721
+Anytime Fitness,"2680 Rice St, Little Canada, MN 55117",Full-Service,60,29.99 bi-weekly,45.032531168517544, -93.10488541963055
+Anytime Fitness,"2515 White Bear Ave, Maplewood, MN 55109",Full-Service,60,29.99 bi-weekly,45.02213355128326, -93.02139103784944
+Anytime Fitness,"2689 County Rd E E, White Bear Lake, MN 55110",Full-Service,66,32.99 bi-weekly,45.05710102146417, -92.98840056964849
+Anytime Fitness,"4600 Centerville Rd, White Bear Lake, MN 55127",Full-Service,60,29.99 bi-weekly,45.08653073701781, -93.05698601669782
+Anytime Fitness,"9175 S Hwy Dr, Circle Pines, MN 55014",Full-Service,53,26.50 bi-weekly,45.14403120842959, -93.16590883953138
+Anytime Fitness,"14643 Mercantile Dr N, Hugo, MN 55038",Full-Service,60,29.99 bi-weekly,45.1696938392937, -93.01416018340163
 
 Snap Fitness,"4070 Lakeland Ave N, Minneapolis, MN 55422",Full-Service,50,,45.034472159384684, -93.33596366173174
 Snap Fitness,"7210 Minnetonka Blvd, St Louis Park, MN 55426",Full-Service,45,,44.953726049512, -93.37000940763326
 Snap Fitness,"4402 France Ave S, Edina, MN 55410",Full-Service,50,,44.92597446864991, -93.33032283200606
 Snap Fitness,"5409 Nicollet Ave Ste b, Minneapolis, MN 55419",Full-Service,35,,44.91038282713006, -93.27822139514446
+Snap Fitness,"1574 154th Ave NW #104, Andover, MN 55304",Full-Service,54,,45.255688265324885, -93.30500328860595
+Snap Fitness,"5676 La Centre Ave Ste 200, Albertville, MN 55301",Full-Service,49,,45.25313841976439, -93.6616664019404
+Snap Fitness,"8507 Jefferson Ln N, Brooklyn Park, MN 55445",Full-Service,50,,45.11416412728897, -93.40017857602706
+Snap Fitness,"4671 Shoreline Dr, Spring Park, MN 55384",Full-Service,50,45 for 12-month,44.94997820405807, -93.64105129151075
+Snap Fitness,"1495 Stieger Lake Ln, Victoria, MN 55386",Full-Service,50,,44.86925291888627, -93.65854463574662
+Snap Fitness,"2411 Galpin Ct #110, Chanhassen, MN 55317",Full-Service,60,,44.85757241263379, -93.58164033942747
+Snap Fitness,"1012 Gateway Dr, Chaska, MN 55318",Full-Service,50,,44.808390976694355, -93.57752046641038
+Snap Fitness,"16731 State Hwy 13 #120, Prior Lake, MN 55372",Full-Service,55,,44.726979102679664, -93.43642847223722
+Snap Fitness,"1024 County Rd 42 E, Burnsville, MN 55337",Full-Service,50,,44.75136594872721, -93.2551540594849
+Snap Fitness,"7367 179th St W, Lakeville, MN 55044",Full-Service,54,,44.704534120006045, -93.20983545629682
+Snap Fitness,"1960 Cliff Lake Rd #115, St Paul, MN 55122",Full-Service,50,,44.798162678333405, -93.20423344942304
+Snap Fitness,"6502 Cahill Ave E, Inver Grove Heights, MN 55076",Full-Service,45,,44.8666697257883, -93.04129119569201
+Snap Fitness,"2800 Rice St, St Paul, MN 55113",Full-Service,50,,45.03542647539916, -93.1045357795641
 
 Planet Fitness,"5045 51st Ct NE, Columbia Heights, MN 55421",Full-Service,20,,45.06687199336045, -93.24913572000449
 Planet Fitness,"203 Willow Bend, Crystal, MN 55428",Full-Service,20,,45.0565462969945, -93.37123326350597
@@ -35,14 +102,44 @@ Planet Fitness,"12431 Wayzata Blvd, Minnetonka, MN 55305",Full-Service,20,,44.97
 Planet Fitness,"11323 MN-7, Minnetonka, MN 55343",Full-Service,20,,44.94019751856953, -93.42309951893151
 Planet Fitness,"3441 Hazelton Rd, Edina, MN 55435",Full-Service,20,,44.877753178340164, -93.32595488401108
 Planet Fitness,"11609 Leona Rd, Eden Prairie, MN 55344",Full-Service,20,,44.86298710858593, -93.42275139145607
+Planet Fitness,"12658 Riverdale Blvd, Coon Rapids, MN 55448",Full-Service,20,,45.20561387759352, -93.35033075549539
+Planet Fitness,"4900 County Rd 101, Minnetonka, MN 55345",Full-Service,20,,44.92349458409597, -93.50730347261492
+Planet Fitness,"1633 17th Ave E, Shakopee, MN 55379",Full-Service,20,,44.78753796762172, -93.50180133449715
+Planet Fitness,"10590 France Ave S, Bloomington, MN 55431",Full-Service,20,,44.82601726591005, -93.33752322398544
+Planet Fitness,"14232 Burnhaven Dr, Burnsville, MN 55306",Full-Service,20,,44.7613615832388, -93.30783493482912
+Planet Fitness,"18350 Orchard Trail, Lakeville, MN 55044",Full-Service,20,,44.70184989881885, -93.28311569672654
+Planet Fitness,"7382 153rd St W, Apple Valley, MN 55124",Full-Service,20,,44.74770857826032, -93.21445114644158
+Planet Fitness,"3400 150th St W, Rosemount, MN 55068",Full-Service,20,,44.746379918646475, -93.13645960940434
+Planet Fitness,"1278 Town Centre Dr Space #135, Eagan, MN 55123",Full-Service,20,,44.838968546537174, -93.16146614511156
+Planet Fitness,"2401 7th St W, St Paul, MN 55116",Full-Service,20,,44.91370245374362, -93.1723385522927
+Planet Fitness,"1675 S Robert St, West St Paul, MN 55118",Full-Service,20,,44.908312534602565, -93.07883585053489
+Planet Fitness,"2167 Old Hudson Rd, St Paul, MN 55119",Full-Service,20,,44.97603475303598, -93.00816520385746
+Planet Fitness,"2852 26th Ave S, Minneapolis, MN 55406",Full-Service,20,,44.95799590824254, -93.23309711107542
+Planet Fitness,"575 SE 9th St Ste 150, Minneapolis, MN 55414",Full-Service,20,,44.99928148252048, -93.2468300211324
+Planet Fitness,"1750 Highway 36 W, Roseville, MN 55113",Full-Service,20,,45.01627278562529, -93.17470550756966
+Planet Fitness,"1930 Buerkle Rd, White Bear Lake, MN 55110",Full-Service,20,,45.04781468951617, -93.02021026756738
+Planet Fitness,"2553 Mounds View Blvd, Mounds View, MN 55112",Full-Service,20,,45.114722946312234, -93.20869446022127
+Planet Fitness,"60 Coon Rapids Blvd NW, Coon Rapids, MN 55448",Full-Service,20,,45.14475766813227, -93.2711792013975
 
 LA Fitness,"3555 MN-100, St Louis Park, MN 55416",Full-Service,30,,44.94359968522247, -93.34652785825179
 LA Fitness,"6501 Lyndale Ave S, Richfield, MN 55423",Full-Service,30,,44.889140827366916, -93.28541640849818
 LA Fitness,"4175 W 76th St, Edina, MN 55435",Full-Service,30,,44.87211184914427, -93.33416823942886
+LA Fitness,"6600 96th Ln N, Brooklyn Park, MN 55445",Full-Service,30,,45.14475766809462, -93.36490631542233
+LA Fitness,"15135 Galaxie Ave, Apple Valley, MN 55124",Full-Service,30,,44.74331942940095, -93.20285797355358
+LA Fitness,"1611 S Robert St, West St Paul, MN 55118",Full-Service,30,,44.91279057556604, -93.07651520102924
+LA Fitness,"1370 University Ave W, St Paul, MN 55104",Full-Service,30,,44.96722702616515, -93.1685256984111
+LA Fitness,"1940 County Rd D E, Maplewood, MN 55109",Full-Service,30,,45.0458741486266, -93.02707672477445
+LA Fitness,"1101 Silver Lake Rd NW, New Brighton, MN 55112",Full-Service,30,,45.090489872641655, -93.22208404758372
 
 Los Campeones,"6440 James Cir N, Brooklyn Center, MN 55430",Full-Service,80,,45.076397769132235, -93.30340066590205
 Los Campeones,"2746 Blaisdell Ave, Minneapolis, MN 55408",Full-Service,80,,44.9590600910991, -93.28170004246999
 Los Campeones,"12990 Valley View Rd, Eden Prairie, MN 55344",Full-Service,80,,44.876308743096565, -93.4404922180657
+Los Campeones,"14301 W Burnsville Pkwy, Burnsville, MN 55306",Full-Service,80,,44.757948634367324, -93.3243552701761
+Los Campeones,"2721 E Franklin Ave, Minneapolis, MN 55406",Full-Service,80,,44.985927638173465, -93.22836735061831
+Los Campeones,"1324 Quincy St NE, Minneapolis, MN 55413",Full-Service,80,,45.007757905404596, -93.25043900572379
+Los Campeones,"155 Eaton St, St Paul, MN 55107",Full-Service,80,,44.94294587958486, -93.082116357417
+Los Campeones,"1550 Rice St, St Paul, MN 55117",Full-Service,80,,44.99879594340641, -93.10784602164703
+Los Campeones,"1852 County Rd D E, Maplewood, MN 55109",Full-Service,80,,45.041992876190314, -93.02270197929366
 
 Status Strength and Fitness,"4832 Park Glen Rd, St Louis Park, MN 55416",Full-Service,99,,44.944051851675745, -93.34222281809541
 
@@ -52,8 +149,17 @@ Discover Strength,"4450 Excelsior Blvd Ste 140, St Louis Park, MN 55416",Full-Se
 Discover Strength,"5041 France Ave S STE 1, Edina, MN 55410",Full-Service,650,65 per class(10 assumed),44.92081347435405, -93.3288574235029
 Discover Strength,"7101 France Ave S Ste 112, Edina, MN 55435",Full-Service,650,65 per class(10 assumed),44.883363703234025, -93.32679748699434
 Discover Strength,"120 South 6th St, Minneapolis, MN 55402",Full-Service,650,65 per class(10 assumed),44.97778687505858, -93.27042280486577
+Discover Strength,"1313 Wayzata Blvd, Wayzata, MN 55391",Full-Service,650,65 per class(10 assumed),44.98325649604745, -93.50048215125642
+Discover Strength,"18882 Lake Dr E, Chanhassen, MN 55317",Full-Service,650,65 per class(10 assumed),44.87241598363118, -93.51421506131342
+Discover Strength,"2895 Winners Cir Dr, Shakopee, MN 55379",Full-Service,650,65 per class(10 assumed),44.799134331531654, -93.48094940628233
+Discover Strength,"5781 Egan Dr, Savage, MN 55378",Full-Service,650,65 per class(10 assumed),44.76501809047832, -93.35323334180937
+Discover Strength,"15730 Emperor Ave #200, Apple Valley, MN 55124",Full-Service,650,65 per class(10 assumed),44.74063700444417, -93.18019867211362
+Discover Strength,"747 Cleveland Ave S Ste b, St Paul, MN 55116",Full-Service,650,65 per class(10 assumed),44.93564072939711, -93.18637743515909
+Discover Strength,"265 Radio Dr c, Woodbury, MN 55125",Full-Service,650,65 per class(10 assumed),44.96285457692543, -92.94055834513887
+Discover Strength,"314 E Hennepin Ave, Minneapolis, MN 55414",Full-Service,650,65 per class(10 assumed),44.99791564744809, -93.25303582038829
 
 The Power House MN,"7319 W Lake St, St Louis Park, MN 55426",Trainer,160,10 classes,44.93886089798831, -93.37397372742458
+The Power House MN,"617 Snelling Ave S, St Paul, MN 55116",Trainer,160,10 classes,44.93310535657073, -93.16532810418481
 
 Orangetheory Fitness,"8121 Wedgewood Ln N, Maple Grove, MN 55369",Trainer,69,4 classes monthly,45.108847371525414, -93.45022201648513
 Orangetheory Fitness,"2700 Annapolis Cir N Suite A, Plymouth, MN 55441",Trainer,69,4 classes monthly,45.01441099599633, -93.452267428237
@@ -61,10 +167,27 @@ Orangetheory Fitness,"411 N Washington Ave #250, Minneapolis, MN 55401",Trainer,
 Orangetheory Fitness,"5602 Cedar Lk Rd S, St Louis Park, MN 55416",Trainer,69,4 classes monthly,44.96825936391353, -93.35117340197073
 Orangetheory Fitness,"3523 W 70th St, Edina, MN 55435",Trainer,69,4 classes monthly,44.88026206012141, -93.3267974860511
 Orangetheory Fitness,"1635 E 66th St, Richfield, MN 55423",Trainer,69,4 classes monthly,44.88585705899236, -93.2505798352348
+Orangetheory Fitness,"12617 Riverdale Blvd, Coon Rapids, MN 55448",Trainer,69,4 classes monthly,45.21131049894084, -93.3511734030725
+Orangetheory Fitness,"9774 Schreiber Terrace, Brooklyn Park, MN 55445",Trainer,69,4 classes monthly,45.14112527674345, -93.35941314835738
+Orangetheory Fitness,"460 Lake Dr E #170, Chanhassen, MN 55317",Trainer,69,4 classes monthly,44.86694353147716, -93.53468502307247
+Orangetheory Fitness,"1008 County Rd 42 W, Burnsville, MN 55337",Trainer,69,4 classes monthly,44.76639416355547, -93.29344378986755
+Orangetheory Fitness,"15624 Pilot Knob Rd, Apple Valley, MN 55124",Trainer,69,4 classes monthly,44.74531962877124, -93.18386457783323
+Orangetheory Fitness,"3325 Central Park Commons Dr #120, Eagan, MN 55121",Trainer,69,4 classes monthly,44.85223387517757, -93.17815732725116
+Orangetheory Fitness,"850 Grand Ave, St Paul, MN 55105",Trainer,69,4 classes monthly,44.94754837610525, -93.13366241260712
+Orangetheory Fitness,"2195 Snelling Ave N, Roseville, MN 55113",Trainer,69,4 classes monthly,45.013117638228074, -93.17005462425817
+Orangetheory Fitness,"530 Woodbury Dr #300, Woodbury, MN 55125",Trainer,69,4 classes monthly,44.95259220350759, -92.90853615666813
+Orangetheory Fitness,"3095 White Bear Ave, Maplewood, MN 55109",Trainer,69,4 classes monthly,45.049083233448755, -93.01370671196165
 
 F45,"3900 Vinewood Ln N Ste 11, Plymouth, MN 55441",Trainer,189,monthly unlimited,45.03010483739359, -93.44807624926325
 F45,"3440 Beltline Blvd, St Louis Park, MN 55416",Trainer,195,monthly unlimited,44.94608835945621, -93.33974146736038
 F45,"5445 Lyndale Ave S, Minneapolis, MN 55419",Trainer,,,44.90743928403369, -93.28892969980204
+
+F45,"9408 Dunkirk Ln N, Maple Grove, MN 55311",Trainer,,,45.14185177326857, -93.4963989301486
+F45,"3428 County Rd 101, Wayzata, MN 55391",Trainer,,,44.957510018861896, -93.50326538428378
+F45,"7705 Egan Dr, Savage, MN 55378",Trainer,,,44.753072644925524, -93.37692261021105
+F45,"2139 Cliff Rd, Eagan, MN 55122",Trainer,,,44.812531625059826, -93.22860718159552
+F45,"7751 Amana Trail Suite 100, Inver Grove Heights, MN 55077",Trainer,,,44.843375373548106, -93.08620532897605
+F45,"650 Commerce Dr #120, Woodbury, MN 55125",Trainer,,,44.95353079344963, -92.91315284163697
 
 [solidcore],"11648 Elm Creek Blvd N, Maple Grove, MN 55369",Trainer,310,monthly unlimited,45.09933613875658, -93.42567443959818
 [solidcore],"107 N 3rd Ave, Minneapolis, MN 55401",Trainer,310,monthly unlimited,44.990383213581744, -93.27176678877906
@@ -72,6 +195,8 @@ F45,"5445 Lyndale Ave S, Minneapolis, MN 55419",Trainer,,,44.90743928403369, -93
 
 Pure Barre,"7891 Main St, Maple Grove, MN 55369",Trainer,135,monthly unlimited,45.10072960316418, -93.44326973070609
 Pure Barre,"5620 W 36th St, St Louis Park, MN 55416",Trainer,135,monthly unlimited,44.93992471017382, -93.35012691052708
+Pure Barre,"1380 Duckwood Dr Suite 108, Eagan, MN 55123",Trainer,135,monthly unlimited,44.851837373266584, -93.17235606761523
+Pure Barre,"8160 Co Rd 42 Ste# 500, Savage, MN 55378",Trainer,135,monthly unlimited,44.76526184941921, -93.38173610030442
 Pulse Barre,"THE SHOPS AT WESTEND, #1645, St Louis Park, MN 55416",Trainer,169,monthly unlimited,44.97020891367724, -93.3483399957085
 
 Corepower Yoga,"12872 Bass Lake Rd, Maple Grove, MN 55369",Trainer,179,monthly unlimited,45.0749753128421, -93.44730377414142
@@ -80,8 +205,26 @@ Corepower Yoga,"501 Washington Ave S Suite 200, Minneapolis, MN 55415",Trainer,1
 Corepower Yoga,"4611 Excelsior Blvd, St Louis Park, MN 55416",Trainer,179,monthly unlimited,44.9367475121485, -93.33749151719029
 Corepower Yoga,"7739 Flying Cloud Dr, Eden Prairie, MN 55344",Trainer,179,monthly unlimited,44.87338919659955, -93.42230464297603
 Corepower Yoga,"7495 France Ave S, Edina, MN 55435",Trainer,179,monthly unlimited,44.872881663300205, -93.32780155369656
+Corepower Yoga,"7586 150th St W #6A, Apple Valley, MN 55124",Trainer,179,monthly unlimited,44.7509310043351, -93.21182595719579
+Corepower Yoga,"680 Cleveland Ave S, St Paul, MN 55116",Trainer,179,monthly unlimited,44.93399195595129, -93.1843601370818
+Corepower Yoga,"867 Grand Ave, St Paul, MN 55105",Trainer,179,monthly unlimited,44.95829134907037, -93.14865457093362
+Corepower Yoga,"945 Broadway St NE Suite 120, Minneapolis, MN 55413",Trainer,179,monthly unlimited,45.01788822928109, -93.2512634111329
+Corepower Yoga,"2480 Fairview Ave N Ste 155, Roseville, MN 55113",Trainer,179,monthly unlimited,45.031065835832784, -93.17313652198746
+Corepower Yoga,"8121 Wedgewood Ln N, Maple Grove, MN 55369",Trainer,179,monthly unlimited,45.111330935662586, -93.46177447973173
+Corepower Yoga,"8160 Coller Way C, Woodbury, MN 55125",Trainer,179,monthly unlimited,44.946333423532415, -92.9371773135099
 
 Club Pilates,"11658 Fountains Dr, Maple Grove, MN 55369",Trainer,250,from 199-299 no clear data,45.111330935493015, -93.43247408394019
 Club Pilates,"4000 Annapolis Ln N Suite 105, Plymouth, MN 55447",Trainer,250,from 199-299 no clear data,45.036413084335756, -93.45374619443334
 Club Pilates,"3200B W Lake St, Minneapolis, MN 55416",Trainer,250,from 199-299 no clear data,44.958238851154, -93.31847702982115
 Club Pilates,"3940 W 50th St Ste 110, Edina, MN 55424",Trainer,250,from 199-299 no clear data,44.91886863260458, -93.32877671236389
+Club Pilates,"11658 Fountains Dr, Maple Grove, MN 55369",Trainer,250,from 199-299 no clear data,45.11811475499711, -93.42773437939714
+Club Pilates,"17760 MN-7, Minnetonka, MN 55345",Trainer,250,from 199-299 no clear data,44.93418888889545, -93.51349835892773
+Club Pilates,"574 Prairie Center Dr Ste 155, Eden Prairie, MN 55344",Trainer,250,from 199-299 no clear data,44.866096099481155, -93.43384748059718
+Club Pilates,"1667 17th Ave E #106, Shakopee, MN 55379",Trainer,250,from 199-299 no clear data,44.794749086948514, -93.50341546431193
+Club Pilates,"14010 State Hwy 13, Savage, MN 55378",Trainer,250,from 199-299 no clear data,44.766480629092996, -93.38393914681608
+Club Pilates,"16106 Pilot Knob Rd #130, Lakeville, MN 55044",Trainer,250,from 199-299 no clear data,44.73136949537156, -93.17382562294411
+Club Pilates,"3450 Pilot Knob Rd #106, Eagan, MN 55122",Trainer,250,from 199-299 no clear data,44.84577625859795, -93.165446153988
+Club Pilates,"757 Cleveland Ave S, St Paul, MN 55116",Trainer,250,from 199-299 no clear data,44.93313997213865, -93.18912884163106
+Club Pilates,"1815 Radio Dr G, Woodbury, MN 55125",Trainer,250,from 199-299 no clear data,44.93313997240843, -92.92943592078416
+Club Pilates,"4713 Hwy 61 N, White Bear Lake, MN 55110",Trainer,250,from 199-299 no clear data,45.096455039305575, -93.00848642984991
+Club Pilates,"3845 Lexington Ave N Ste 111, Arden Hills, MN 55126",Trainer,250,from 199-299 no clear data,45.074975312653564, -93.14726127261714
